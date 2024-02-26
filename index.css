@@ -1,0 +1,48 @@
+body {
+    color: aliceblue;
+    background-color: rgb(5, 2, 26);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    padding: 16px;
+}
+
+ul {
+    display:  flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+h1 {
+    color: rgb(175, 166, 33);
+}
+
+a {
+    color: rgb(54, 96, 131);
+    text-decoration: none;
+}
+
+img {
+     width: 150px;
+     height: 150%;
+     border-radius: 80%;
+}
+
+.center {
+    text-align: center;
+}
+
+footer img {
+    width: 80px;
+    height: 80px;
+    padding: 110px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color: aquamarine;
+}
