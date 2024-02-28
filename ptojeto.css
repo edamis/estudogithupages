@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(248, 223, 185);
+}
+
+footer img{
+    width: 30px;
+    height: 30px;
+}
+
+.container {
+    padding: 20px 20px;
+}
